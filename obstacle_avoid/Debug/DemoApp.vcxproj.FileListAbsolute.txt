@@ -1,0 +1,12 @@
+C:\Users\Lee\Downloads\08brush\04.OpacityMaskBitmap\Debug\DemoApp.exe
+C:\Users\safi2\Downloads\04.OpacityMaskBitmap\Debug\DemoApp.exe
+C:\Users\Lee\Downloads\04.OpacityMaskBitmap\Debug\DemoApp.exe
+C:\Users\safi2\OneDrive\바탕 화면\04.OpacityMaskBitmap(2)\Debug\DemoApp.exe
+C:\Users\safi2\OneDrive\바탕 화면\201802913_HW3\Debug\DemoApp.exe
+C:\Users\Lee\Downloads\201802913_HW3\201802913_HW3\Debug\DemoApp.exe
+C:\Users\Lee\Downloads\201802913_HW3 (2)\201802913_HW3\Debug\DemoApp.exe
+C:\Users\safi2\Downloads\201802913_HW3 (2) (2)\201802913_HW3\Debug\DemoApp.exe
+C:\Users\safi2\Downloads\201802913_HW4\201802913_HW4\Debug\DemoApp.exe
+C:\Users\safi2\OneDrive\바탕 화면\201802913_HW4\Debug\DemoApp.exe
+C:\Users\Lee\Downloads\201802913_HW4\Debug\DemoApp.exe
+C:\Users\Lee\Downloads\obstacle_avoid\Debug\DemoApp.exe
